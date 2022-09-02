@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya Singh
-- 👀 I’m interested in wed development,machine learning,python.
+- 👀 I’m interested in web development,machine learning,python.
 - 🌱 I’m currently learning php,flask,textscript.
 - 💞️ I’m looking to collaborate on web devlopment.
 - 📫 How to reach me through email: 105aaryasingh@gmail.com
